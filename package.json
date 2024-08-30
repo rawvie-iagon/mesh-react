@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "@meshsdk/common": "git+https://github.com/rawvie-iagon/mesh-common.git4",
+    "@meshsdk/common": "git+https://github.com/rawvie-iagon/mesh-common.git",
     "@meshsdk/transaction": "git+https://github.com/rawvie-iagon/mesh-transaction.git",
     "@meshsdk/wallet": "git+https://github.com/rawvie-iagon/mesh-wallet.git"
   },
